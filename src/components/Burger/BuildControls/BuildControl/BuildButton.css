@@ -1,0 +1,22 @@
+.BuildControl{
+    display: block;
+    width: 50%;
+    text-align: center;
+    margin: 5px auto;
+}
+
+.Label{
+    font-size: 14px;
+    display: inline;
+    margin: 0 2em 0 0;
+
+}
+
+.ButtonBox{
+    display: inline;
+}
+
+.Button{
+    padding: 5px;
+}
+
